@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1000,
+    "name": "White matter",
+    "children": [
+      {
+        "id": 4,
+        "name": "corpus callosum",
+        "color": "e68c0f"
+      },
+      {
+        "id": 15,
+        "name": "anterior commissure",
+        "color": "7cfc00"
+      },
+      {
+        "id": 3,
+        "name": "fimbria-fornix",
+        "color": "2fc631"
+      },
+      {
+        "id": 27,
+        "name": "internal capsule",
+        "color": "f2df07"
+      },
+      {
+        "id": 1001,
+        "name": "Thalamic tracts",
+        "children": [
+          {
+            "id": 32,
+            "name": "mammillotegmental tract",
+            "color": "eeba00"
+          },
+          {
+            "id": 33,
+            "name": "fasciculus retroflexus",
+            "color": "f44345"
+          },
+          {
+            "id": 31,
+            "name": "stria terminalis",
+            "color": "ee7533"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "optic nerve and tract",
+        "color": "2926d9"
+      },
+      {
+        "id": 26,
+        "name": "spinal trigeminal nerve",
+        "color": "db7b7b"
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "Gray matter",
+    "children": [
+      {
+        "id": 16,
+        "name": "olfactory system",
+        "color": "ffe300"
+      },
+      {
+        "id": 1,
+        "name": "cerebral cortex",
+        "color": "6b8f85"
+      },
+      {
+        "id": 2,
+        "name": "hippocampus",
+        "color": "a5836b"
+      },
+      {
+        "id": 7,
+        "name": "striatum",
+        "color": "814fff"
+      },
+      {
+        "id": 8,
+        "name": "accumbens",
+        "color": "e6d8fa"
+      },
+      {
+        "id": 9,
+        "name": "amygdala",
+        "color": "e05519"
+      },
+      {
+        "id": 11,
+        "name": "globus pallidus",
+        "color": "c224b5"
+      },
+      {
+        "id": 12,
+        "name": "ventral pallidum",
+        "color": "00a2ff"
+      },
+      {
+        "id": 30,
+        "name": "subthalamic nucleus",
+        "color": "0000ff"
+      },
+      {
+        "id": 24,
+        "name": "basal forebrain region",
+        "color": "e1f00d"
+      },
+      {
+        "id": 10,
+        "name": "septum",
+        "color": "e0bc28"
+      },
+      {
+        "id": 5,
+        "name": "thalamus",
+        "color": "095e09"
+      },
+      {
+        "id": 34,
+        "name": "bed nucleus of the stria terminalis",
+        "color": "e37c22"
+      },
+      {
+        "id": 6,
+        "name": "hypothalamic region",
+        "color": "e278a1"
+      },
+      {
+        "id": 20,
+        "name": "pineal gland",
+        "color": "daaa3e"
+      },
+      {
+        "id": 1013,
+        "name": "Tectum",
+        "children": [
+          {
+            "id": 18,
+            "name": "inferior colliculus",
+            "color": "ee2f2c"
+          },
+          {
+            "id": 19,
+            "name": "superior colliculus",
+            "color": "5600dd"
+          }
+        ]
+      },
+      {
+        "id": 1014,
+        "name": "Tegmentum",
+        "children": [
+          {
+            "id": 28,
+            "name": "ventral tegmental area",
+            "color": "f7e8d0"
+          },
+          {
+            "id": 29,
+            "name": "substantia nigra",
+            "color": "b7a757"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "periaqueductal gray",
+        "color": "07ff59"
+      },
+      {
+        "id": 14,
+        "name": "cerebellum",
+        "color": "f0bcec"
+      },
+      {
+        "id": 35,
+        "name": "periventricular gray",
+        "color": "d1f7d0"
+      },
+      {
+        "id": 13,
+        "name": "brain stem",
+        "color": "9953ff"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "ventricular system",
+    "color": "90d3e4"
+  },
+  {
+    "id": 21,
+    "name": "spinal cord",
+    "color": "86ff5a"
+  },
+  {
+    "id": 99,
+    "name": "other",
+    "color": "bfbcbb"
+  }
+]
